@@ -1,0 +1,8 @@
+D:\Study\C#\git\SuperSocket-study\ChatServer\CSBaseLib\bin\Debug\netstandard2.0\CSBaseLib.deps.json
+D:\Study\C#\git\SuperSocket-study\ChatServer\CSBaseLib\bin\Debug\netstandard2.0\CSBaseLib.dll
+D:\Study\C#\git\SuperSocket-study\ChatServer\CSBaseLib\bin\Debug\netstandard2.0\CSBaseLib.pdb
+D:\Study\C#\git\SuperSocket-study\ChatServer\CSBaseLib\obj\Debug\netstandard2.0\CSBaseLib.csprojAssemblyReference.cache
+D:\Study\C#\git\SuperSocket-study\ChatServer\CSBaseLib\obj\Debug\netstandard2.0\CSBaseLib.AssemblyInfoInputs.cache
+D:\Study\C#\git\SuperSocket-study\ChatServer\CSBaseLib\obj\Debug\netstandard2.0\CSBaseLib.AssemblyInfo.cs
+D:\Study\C#\git\SuperSocket-study\ChatServer\CSBaseLib\obj\Debug\netstandard2.0\CSBaseLib.dll
+D:\Study\C#\git\SuperSocket-study\ChatServer\CSBaseLib\obj\Debug\netstandard2.0\CSBaseLib.pdb

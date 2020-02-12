@@ -1,0 +1,16 @@
+D:\Study\C#\공유자료\SuperSocketLite\Common\bin\Debug\netstandard2.1\SuperSocket.Common.deps.json
+D:\Study\C#\공유자료\SuperSocketLite\Common\bin\Debug\netstandard2.1\SuperSocket.Common.dll
+D:\Study\C#\공유자료\SuperSocketLite\Common\bin\Debug\netstandard2.1\SuperSocket.Common.pdb
+D:\Study\C#\공유자료\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.csprojAssemblyReference.cache
+D:\Study\C#\공유자료\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.AssemblyInfoInputs.cache
+D:\Study\C#\공유자료\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.AssemblyInfo.cs
+D:\Study\C#\공유자료\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.dll
+D:\Study\C#\공유자료\SuperSocketLite\Common\obj\Debug\netstandard2.1\SuperSocket.Common.pdb
+D:\Study\C#\git\SuperSocket-study\Common\bin\Debug\netstandard2.1\SuperSocket.Common.deps.json
+D:\Study\C#\git\SuperSocket-study\Common\bin\Debug\netstandard2.1\SuperSocket.Common.dll
+D:\Study\C#\git\SuperSocket-study\Common\bin\Debug\netstandard2.1\SuperSocket.Common.pdb
+D:\Study\C#\git\SuperSocket-study\Common\obj\Debug\netstandard2.1\SuperSocket.Common.csprojAssemblyReference.cache
+D:\Study\C#\git\SuperSocket-study\Common\obj\Debug\netstandard2.1\SuperSocket.Common.AssemblyInfoInputs.cache
+D:\Study\C#\git\SuperSocket-study\Common\obj\Debug\netstandard2.1\SuperSocket.Common.AssemblyInfo.cs
+D:\Study\C#\git\SuperSocket-study\Common\obj\Debug\netstandard2.1\SuperSocket.Common.dll
+D:\Study\C#\git\SuperSocket-study\Common\obj\Debug\netstandard2.1\SuperSocket.Common.pdb

@@ -1,0 +1,5 @@
+[2020/02/13 01:43:44.087] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 초기화 성공
+[2020/02/13 01:43:44.123] [TID:1] [AsyncSocketServer.Start => SocketServerBase.Start => NLogLog.DebugFormat]: Listener (0.0.0.0:32452) was started
+[2020/02/13 01:43:44.125] [TID:1] [AppServer`2.Start => AppServerBase`2.Start => NLogLog.Info]: The server instance ChatServer has been started!
+[2020/02/13 01:43:44.125] [TID:1] [Program.Main => MainServer.CreateStartServer => NLogLog.Info]: 서버 생성 성공
+[2020/02/13 01:43:44.125] [TID:1] [Program.Main => NLogLog.Info]: Press q to shut down the server
